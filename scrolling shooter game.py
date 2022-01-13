@@ -1,4 +1,4 @@
-#shoote Fighter Game 2021
+#shooter Fighter Game 2021
 
 import pygame
 from pygame import mixer
